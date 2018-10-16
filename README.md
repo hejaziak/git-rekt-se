@@ -14,6 +14,10 @@ Git-Rekt SE Project
 
 https://git-rekt.me/
 
+###### Video
+
+https://youtu.be/5avFOo-ZFqw
+
 ###### Facebook Bot with NLP
 
 https://www.facebook.com/Git-Rekt-233623487117867/
